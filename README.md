@@ -9,7 +9,8 @@ And use the rainbow-node-sdk in it.
 
 ## Install
 
-    $ npm install passport-rainbow-oauth2
+    go to the sources and do
+    $ npm install
 
 ## Usage of OAuth 2.0
 
